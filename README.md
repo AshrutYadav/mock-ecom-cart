@@ -181,7 +181,7 @@ Notes:
 ## Troubleshooting
 
 - Frontend can’t load products/cart
-  - Ensure API is running at `http://localhost:4000` (or set `VITE_API_URL`).
+  - Ensure API is running at `http://localhost:4000`.
   - Check terminal for API errors.
 
 - CORS error in browser console
